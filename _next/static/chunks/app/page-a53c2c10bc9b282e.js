@@ -41,7 +41,7 @@
                         }), (0,
                             r.jsx)("h1", {
                             className: "text-4xl my-4 text-center",
-                            children: "hi.Will you be my Valentine nasipwondi?"
+                            children: "Hello.Will you be my Valentine nasipwondi?"
                         }), (0,
                             r.jsxs)("div", {
                             className: "flex flex-wrap flex-col md:flex-row gap-4 items-center justify-center",
