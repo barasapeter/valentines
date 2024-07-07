@@ -5,6 +5,7 @@
                 Object.defineProperty(r, "__esModule", {
                         value: !0
                     }),
+                    
                     r.EthereumProviderError = r.EthereumRpcError = void 0;
                 const n = t(445);
                 class o extends Error {
